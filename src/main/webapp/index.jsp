@@ -4,12 +4,14 @@
     <head>
         <title>JSP - Hello World</title>
     </head>
-    <body>
+    <br>
         <h1>Kole Hicok's Demo Page
         </h1>
         <br/>
         <a href="hello-servlet">Hello Servlet</a>
-        </br>
+        <br/>
         <a href="test.html">Test Page</a>
+        <br/>
+        <a href="javascript_assignment.html">JavaScript Assignment</a>
     </body>
 </html>
